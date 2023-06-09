@@ -1,7 +1,7 @@
 # Titanic_kaggle_EDA
 
 
-# Data Dictionary
+# Information about the columns
 
 Variable : Definition	Key
 
